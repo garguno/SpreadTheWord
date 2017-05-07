@@ -1,4 +1,4 @@
-package ewbgames.myapplication;
+package ewbgames.spreadtheword;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ewbgames.myapplication", appContext.getPackageName());
+        assertEquals("ewbgames.spreadtheword", appContext.getPackageName());
     }
 }

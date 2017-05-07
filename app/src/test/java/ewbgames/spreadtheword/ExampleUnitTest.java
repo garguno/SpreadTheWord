@@ -1,4 +1,4 @@
-package ewbgames.myapplication;
+package ewbgames.spreadtheword;
 
 import org.junit.Test;
 
